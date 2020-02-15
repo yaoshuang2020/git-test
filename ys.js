@@ -6,5 +6,6 @@ function test(){
     alert('我是小红')
     alert('第二个功能')
     alert('第三个功能')
+    alert('第四个功能')
 
   }
