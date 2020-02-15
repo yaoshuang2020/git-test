@@ -4,4 +4,6 @@ function test(){
     alert('哈哈哈哈!')
     alert('我是小明') 
     alert('我是小红')
+    alert('第二个功能')
+
   }
