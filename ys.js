@@ -7,5 +7,7 @@ function test(){
     alert('第二个功能')
     alert('第三个功能')
     alert('第四个功能')
+    alert('第五个功能完成一半')
+    
 
   }
